@@ -1,4 +1,4 @@
-<img src="logo.jpg">
+<img src="LOGO.jpg">
 
 - 👀 I’m interested in  the Cheerleaders
 - 🌱 I’m currently learning the Cheerleaders
