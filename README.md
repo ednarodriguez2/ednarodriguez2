@@ -11,11 +11,6 @@
 <a href="https://www.youtube.com/c/edna rodriguez alonzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="edna rodriguez alonzo" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ednarodriguez2&label=Profile%20views&color=0e75b6&style=flat" alt="ednarodriguez2" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ednarodriguez2" alt="ednarodriguez2" /></a> </p><p align="left"> <
-
-a href="https://twitter.com/rodddebna" target="blank"><img src="https://img.shields.io/twitter/follow/rodddebna?logo=twitter&style=for-the-badge" alt="rodddebna" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en [Unidad 4 programación](https://github.com/ednarodriguez2)
 
