@@ -3,7 +3,7 @@
 <h1 align="center">Hola 👋, soy Edna Rodriguez</h1>
 <h3 align="center">Una desarrolladora apasionada de México</h3>
 
-<h3> align="left">Conéctate conmigo:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://twitter.com/rodddebna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rodddebna" height="30" width="40" /></a>
 <a href="https://fb.com/sofia rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sofia rodriguez" height="30" width="40" /></a>
