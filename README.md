@@ -3,8 +3,16 @@
 <h1 align="center">Hola 👋, soy Sofia Rodriguez</h1>
 <h3 align="center">Una desarrolladora apasionada de México</h3>
 <div style="display: flex; align-items: center;">
+<a href="https://www.youtube.com/@EdnaRodríguezAlonzo?sub_confirmation=1" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Suscribirse-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscribirse">
+</a>
+
+
+
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ednarodriguez2/ednarodriguez2&title=Visitas&edge_flat=false" alt="Contador de visitas" style="margin-right: 10px;">
   <img src="https://img.shields.io/github/forks/ednarodriguez2/ednarodriguez2?style=social" alt="GitHub forks">
+
+  
 </div>
 
 <h3 align="left">Conéctate conmigo:</h3>
