@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/YouTube-Suscribirse-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscribirse">
 </a>
 
+<a href="https://github.com/ednarodriguez2/ednarodriguez2" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio en GitHub">
+</a>
 
 
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ednarodriguez2/ednarodriguez2&title=Visitas&edge_flat=false" alt="Contador de visitas" style="margin-right: 10px;">
