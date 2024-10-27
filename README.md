@@ -1,6 +1,6 @@
 <img src="LOGO.jpg">
 
-<h1 align="center">Hola 👋, soy Edna Rodriguez</h1>
+<h1 align="center">Hola 👋, soy Sofia Rodriguez</h1>
 <h3 align="center">Una desarrolladora apasionada de México</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
@@ -22,7 +22,7 @@
 
 - 💬 Pregúntame sobre **Programacion**
 
-- 📫 Cómo llegar a mí **ednarodriguezalonzo@gmail.com**<
+- 📫 Cómo llegar a mí **ednarodriguezalonzo@gmail.com**
 
 
 
