@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola 👋, soy Sofia Rodriguez</h1>
 <h3 align="center">Una desarrolladora apasionada de México</h3>
-<img src="https://img.shields.io/badge/dynamic/json?color=informational&label=Visitas&query=value&url=https://api.countapi.xyz/hit/ednarodriguez2/ednarodriguez2" alt="Contador de visitas">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ednarodriguez2/ednarodriguez2&title=Visitas&edge_flat=false" alt="Contador de visitas">
 
 
 <h3 align="left">Conéctate conmigo:</h3>
