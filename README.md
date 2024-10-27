@@ -2,9 +2,11 @@
 
 <h1 align="center">Hola 👋, soy Sofia Rodriguez</h1>
 <h3 align="center">Una desarrolladora apasionada de México</h3>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ednarodriguez2/ednarodriguez2&title=Visitas&edge_flat=false" alt="Contador de visitas">
+<div style="display: flex; align-items: center;">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ednarodriguez2/ednarodriguez2&title=Visitas&edge_flat=false" alt="Contador de visitas">
+  <img src="https://img.shields.io/github/forks/ednarodriguez2/ednarodriguez2?style=social" alt="GitHub forks">
+</div>
 
-<img src="https://img.shields.io/github/forks/ednarodriguez2/ednarodriguez2?style=social" alt="GitHub forks">
 
 
 
