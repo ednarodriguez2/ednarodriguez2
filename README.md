@@ -7,6 +7,11 @@
   <img src="https://img.shields.io/badge/YouTube-Suscribirse-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscribirse">
 </a>
 
+<a href="https://twitter.com/rodddebna" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Sígueme en Twitter">
+</a>
+
+
 <a href="https://github.com/ednarodriguez2/ednarodriguez2" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio en GitHub">
 </a>
