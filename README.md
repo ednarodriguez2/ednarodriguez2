@@ -2,26 +2,33 @@
 
 <h1 align="center">Hola 👋, soy Sofia Rodriguez</h1>
 <h3 align="center">Una desarrolladora apasionada de México</h3>
-<div style="display: flex; align-items: center;">
-<a href="https://www.youtube.com/@EdnaRodríguezAlonzo?sub_confirmation=1" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Suscribirse-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscribirse">
-</a>
 
-<a href="https://twitter.com/rodddebna" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Sígueme en Twitter">
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://youtube.com/@EdnaRodríguezAlonzo?sub_confirmation=1" target="_blank">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UCPXqcUmuC8uQUgXs78LW_nA?style=social" alt="YouTube Channel Subscribers">
+      </a>
+    </td>
+    <td>
+      <a href="https://twitter.com/rodddebna" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Sígueme en Twitter">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ednarodriguez2/ednarodriguez2" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio en GitHub">
+      </a>
+    </td>
+    <td>
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ednarodriguez2/ednarodriguez2&title=Visitas&edge_flat=false" alt="Contador de visitas">
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/ednarodriguez2/ednarodriguez2?style=social" alt="GitHub forks">
+    </td>
+  </tr>
+</table>
 
-
-<a href="https://github.com/ednarodriguez2/ednarodriguez2" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio en GitHub">
-</a>
-
-
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ednarodriguez2/ednarodriguez2&title=Visitas&edge_flat=false" alt="Contador de visitas" style="margin-right: 10px;">
-  <img src="https://img.shields.io/github/forks/ednarodriguez2/ednarodriguez2?style=social" alt="GitHub forks">
-
-  
-</div>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
