@@ -7,7 +7,7 @@
   <tr>
     <td>
       <a href="https://youtube.com/@EdnaRodríguezAlonzo?sub_confirmation=1" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UCPXqcUmuC8uQUgXs78LW_nA?style=social" alt="YouTube Channel Subscribers">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UCPXqcUmuC8uQUgXs78LW_nA?style=social" alt="YouTube Channel suscribete">
       </a>
     </td>
     <td>
@@ -28,7 +28,6 @@
     </td>
   </tr>
 </table>
-
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
@@ -63,3 +62,16 @@
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ednarodriguez2&show_icons=true&locale=en" alt="ednarodriguez2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ednarodriguez2&" alt="ednarodriguez2" /></p>
+
+<h3>Ver Videos:</h3>
+<p align="center">
+  <!-- Primer video -->
+  <a href="https://youtu.be/I1Kb8L4vT78?si=7uoYDRrS7-nctJOa" target="_blank">
+    <img src="https://img.youtube.com/vi/I1Kb8L4vT78/0.jpg" alt="Vista previa de video 1" width="480"/>
+  </a>
+  <!-- Segundo video -->
+  <a href="https://youtu.be/myOFLQ31TMs?si=3ZWyrqd_HkzKzoKc" target="_blank">
+    <img src="https://img.youtube.com/vi/myOFLQ31TMs/0.jpg" alt="Vista previa de video 2" width="480"/>
+  </a>
+</p>
+
